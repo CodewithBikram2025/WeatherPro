@@ -79,20 +79,6 @@ WeatherPro transforms weather data into beautiful, actionable insights. Built wi
 
 ---
 
-## 📱 **Screenshots**
-
-<div align="center">
-
-### Desktop View
-*Coming Soon - Add your desktop screenshots here*
-
-### Mobile View  
-*Coming Soon - Add your mobile screenshots here*
-
-</div>
-
----
-
 ## 🌟 **Features Showcase**
 
 - ✅ **City Search** - Intelligent location finder
