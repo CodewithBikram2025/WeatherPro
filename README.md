@@ -4,7 +4,7 @@
   
 ![WeatherPro Banner](https://img.shields.io/badge/Weather-Pro-blue?style=for-the-badge&logo=weather&logoColor=white)
 [![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-brightgreen?style=for-the-badge)](https://yourwebsite.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yourusername/weatherpro)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/CodewithBikram2025/WeatherPro?tab=readme-ov-file)
 
 **Real-time weather insights at your fingertips** ⚡
 
