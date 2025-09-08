@@ -153,9 +153,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge)](https://codewithbikram2025.github.io/portfolio_2025/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bikramjit-pakhira-435b7633b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pakhirab613@gmail.com)
 
 **⭐ Don't forget to star this repo if you found it helpful!**
 
