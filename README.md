@@ -71,20 +71,6 @@ WeatherPro transforms weather data into beautiful, actionable insights. Built wi
 - Internet connection
 - OpenWeather API key (free)
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/weatherpro.git
-
-# Navigate to project directory
-cd weatherpro
-
-# Open in your preferred code editor
-code .
-
-# Serve locally (using Live Server or similar)
-```
-
 ### API Setup
 1. Visit [OpenWeatherMap](https://openweathermap.org/api)
 2. Sign up for a free API key
